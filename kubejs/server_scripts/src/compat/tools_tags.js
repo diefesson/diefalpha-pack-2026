@@ -8,7 +8,6 @@ ServerEvents.tags('item', event => {
             'embers:silver_sword',
             'embers:dawnstone_sword',
             'redstone_arsenal:flux_sword',
-            'malum:soul_stained_steel_sword',
         ],
         'forge:tools/axes': [
             'ae2:nether_quartz_axe',
@@ -19,7 +18,6 @@ ServerEvents.tags('item', event => {
             'embers:silver_axe',
             'embers:dawnstone_axe',
             'redstone_arsenal:flux_axe',
-            'malum:soul_stained_steel_axe',
         ],
         'forge:tools/pickaxes': [
             'ae2:certus_quartz_pickaxe',
@@ -30,7 +28,6 @@ ServerEvents.tags('item', event => {
             'embers:silver_pickaxe',
             'embers:dawnstone_pickaxe',
             'redstone_arsenal:flux_pickaxe',
-            'malum:soul_stained_steel_pickaxe',
         ],
         'forge:tools/shovels': [
             'ae2:fluix_shovel',
@@ -40,7 +37,6 @@ ServerEvents.tags('item', event => {
             'embers:silver_shovel',
             'embers:dawnstone_shovel',
             'redstone_arsenal:flux_shovel',
-            'malum:soul_stained_steel_shovel',
         ],
         'forge:tools/hoes': [
             'ae2:fluix_hoe',
@@ -49,16 +45,13 @@ ServerEvents.tags('item', event => {
             'embers:lead_hoe',
             'embers:silver_hoe',
             'embers:dawnstone_hoe',
-            'malum:soul_stained_steel_hoe',
         ],
         'forge:tools/hammers': [
-            'framedblocks:framed_hammer',
             'redstone_arsenal:flux_hammer',
             'immersiveengineering:hammer',
         ],
         'forge:tools/wrenches': [
             'redstone_arsenal:flux_wrench',
-            'prettypipes:wrench'
         ],
         'forge:tools/others': [
             'pneumaticcraft:jackhammer',
@@ -66,7 +59,6 @@ ServerEvents.tags('item', event => {
             'immersiveengineering:drill',
         ],
         'forge:tools/bows': [
-            'enderzoology:hunting_bow',
             'redstone_arsenal:flux_bow',
         ],
         'forge:tools/crossbows': [

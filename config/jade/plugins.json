@@ -104,31 +104,7 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
-  },
   "jadeaddons.lootr": {
     "info": true
-  },
-  "delightful": {
-    "crop_progress": true,
-    "pie_icons": true,
-    "mushroom_colony": true
-  },
-  "goety_revelation": {
-    "rune_reactor_id": true,
-    "runestone_id": true
-  },
-  "goety": {
-    "block_owner": true,
-    "soul_energy": true,
-    "raider_leader": true,
-    "servant_mode": true,
-    "zombie_villager": true,
-    "villager_profession": true,
-    "train_to": true,
-    "summon_lifespan": true,
-    "trainable": true
   }
 }
