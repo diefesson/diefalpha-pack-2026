@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6c0d3e518d9af9e28cc41d0988debd277e99887bf0cbc611fcd46527e7e5ab10"
+hash = "45c64cc45304ae171df1e508260057d717339ae216119fbc48062de6cf719526"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -660,11 +660,6 @@ hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "41e24ed037adefe00c62d1935f428cc71cb733a04e8012223d66004e52f5ef9d"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e47b4547b51bcd116aa7734ccd185a4edbcec4caf7ff80ef195ada4b727f5f15"
 metafile = true
@@ -980,8 +975,8 @@ hash = "673bec523beaddc4727fee8f9f92d3be914bcad580045ec68af43f679d73d3a2"
 metafile = true
 
 [[files]]
-file = "mods/skin-overrides.pw.toml"
-hash = "bd46abdc32787e7ce152b74fb9da1d49179222b12f7e9bb4e8e9bde26adfb2b4"
+file = "mods/skinrestorer.pw.toml"
+hash = "c65a076342df61280795569bded16d3b1d63a901df26c82bfac3cfbbe45e8881"
 metafile = true
 
 [[files]]
@@ -1020,8 +1015,8 @@ hash = "d81aae3d0916b3d60201f43b2eab687600991c36fa6959b61442bf378419ade0"
 metafile = true
 
 [[files]]
-file = "mods/suggestionproviderfix.pw.toml"
-hash = "b4d0b6f15ffd0a9d2b77f989ee94cd88c138aca9f0752324a88e8d9a808537b7"
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "075e0025cc6941ab27d43699fdffd69c36ebdceeeef6c092865c6a72531ca063"
 metafile = true
 
 [[files]]
@@ -1042,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
 
 [[files]]
