@@ -1,0 +1,16 @@
+name = "DiefAlpha MCPack"
+author = "DieAlpha"
+version = "1.20.1-1.1.0-beta"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c5ba90e6e31bf07fd94173e02259bce775592817c7671d81292e55849c8d061c"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "config/paxi/datapacks"
