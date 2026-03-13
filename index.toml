@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7be856cfc8f6549286f36b1a76615a5ecdc2ff608a627f63475ff6acb432eb8d"
+hash = "fe824468870d78fd917c413790188f7f6c4ba2c19931d997b9d613314920d776"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -222,28 +222,72 @@ file = "config/visualworkbench-client.toml"
 hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "7fb226bfc2699c24814866dfeff6dc0f34c593217b4212a8fb1abecf97367548"
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "f3d295d3a72b574a53aebbf97502858a38ac6935cd344c97fd8e391f051f4c28"
+file = "config/xaero/lib/common.cfg"
+hash = "82b008e200d962d65caa845b3c9c4b9319adffac66a6568145f58f3a0a7ab32f"
 
 [[files]]
-file = "config/xaerominimap_entities.json"
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "f7721283bce37b3e587fda6e1999fce313f51d10a28572dafcdc812a982573e6"
 
 [[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "698567bf9b1b7bcb2fa42c28f4259b371bdbe04713c857c6a1cc9836cd6dbe81"
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "fcfb4d64ba4a721f8cfc656677a89b7f90252e81ba52214432bb0c632739554a"
 
 [[files]]
-file = "config/xaeroworldmap.txt"
-hash = "fb5dadd6afad423e3fd8d4721e1e55029b1bb28815344432911e75db0d133f72"
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "5ae47564cc62efba160283484948a3aa7fd2b895dbb7e9a8651f2770e48e47a1"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "796e044d55578d6cbfe4481b4ab1a86938c59e809375d2bc998cbbfaa41e2b29"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "6ea1fd508c89eb85b0f7f1eb0a0eef86010f00c9b543b29ffb8b62b9d75fff0e"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "903d5b33e331bd14d51930c72a50e3ea2986d0e5a5eeb191dc554cdc6866183d"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "ef6cd61db7b1c94a4ab896693a3482240e41b27d93a3a0d95d1b22918d0630ba"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
@@ -741,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
+hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
 
 [[files]]
@@ -1096,4 +1140,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7b4959fff6aa56f0ec8badecd971324ed906763f38d9f3564e1a421245750937"
+hash = "7f0371939a551a0589fcdbbac3a0c0c536131a5ca6ca2b34ad51109ce195bc09"
