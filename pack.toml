@@ -1,12 +1,12 @@
-name = "DiefAlpha 2026"
+name = "DiefAlpha Pack"
 author = "DieAlpha"
-version = "1.20.1-2026.03.11a"
+version = "2026"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "418871b48a6d42f34f43ae8b6344c1c56fe4bb04346c35cc222c9764f62c0d59"
+hash = "2f86b3e6d7aecf1c09f8751839e07d7baf2d33b27f99d4f2258ab37db7840897"
 
 [versions]
 forge = "47.4.0"

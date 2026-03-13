@@ -1,13 +1,13 @@
 name = "Aetherworks Refracted"
-filename = "aetherworks-1.20.1-1.1.7.jar"
+filename = "aetherworks-1.20.1-1.1.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6SRwIHdF/versions/ISUlq01P/aetherworks-1.20.1-1.1.7.jar"
+url = "https://cdn.modrinth.com/data/6SRwIHdF/versions/F13yDA8s/aetherworks-1.20.1-1.1.8.jar"
 hash-format = "sha512"
-hash = "fecd62ad2b15ea8c5987e488cb8c9f82dca51b2791549d7e825ca157473f05dfe67f4fe26cbf5eb5f8abc6553cecb80413debf5c0b13ae66879c4b34c9052726"
+hash = "5554c13431c60cbd5ed14256edd09f8a6570afcca8ac6cdfdc212ad01bea33f199340a2b05d8a609f2db4b64f514f4ca560cd89845ce51f2324f9403ff1ac09d"
 
 [update]
 [update.modrinth]
 mod-id = "6SRwIHdF"
-version = "ISUlq01P"
+version = "F13yDA8s"

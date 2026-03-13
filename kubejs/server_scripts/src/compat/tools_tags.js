@@ -7,7 +7,6 @@ ServerEvents.tags('item', event => {
             'embers:lead_sword',
             'embers:silver_sword',
             'embers:dawnstone_sword',
-            'redstone_arsenal:flux_sword',
         ],
         'forge:tools/axes': [
             'ae2:nether_quartz_axe',
@@ -17,7 +16,6 @@ ServerEvents.tags('item', event => {
             'embers:lead_axe',
             'embers:silver_axe',
             'embers:dawnstone_axe',
-            'redstone_arsenal:flux_axe',
         ],
         'forge:tools/pickaxes': [
             'ae2:certus_quartz_pickaxe',
@@ -27,7 +25,6 @@ ServerEvents.tags('item', event => {
             'embers:lead_pickaxe',
             'embers:silver_pickaxe',
             'embers:dawnstone_pickaxe',
-            'redstone_arsenal:flux_pickaxe',
         ],
         'forge:tools/shovels': [
             'ae2:fluix_shovel',
@@ -36,7 +33,6 @@ ServerEvents.tags('item', event => {
             'embers:lead_shovel',
             'embers:silver_shovel',
             'embers:dawnstone_shovel',
-            'redstone_arsenal:flux_shovel',
         ],
         'forge:tools/hoes': [
             'ae2:fluix_hoe',
@@ -47,22 +43,12 @@ ServerEvents.tags('item', event => {
             'embers:dawnstone_hoe',
         ],
         'forge:tools/hammers': [
-            'redstone_arsenal:flux_hammer',
             'immersiveengineering:hammer',
-        ],
-        'forge:tools/wrenches': [
-            'redstone_arsenal:flux_wrench',
         ],
         'forge:tools/others': [
             'pneumaticcraft:jackhammer',
             'immersiveengineering:buzzsaw',
             'immersiveengineering:drill',
-        ],
-        'forge:tools/bows': [
-            'redstone_arsenal:flux_bow',
-        ],
-        'forge:tools/crossbows': [
-            'redstone_arsenal:flux_crossbow',
         ],
         'forge:tools': [
             '#forge:tools/swords',
