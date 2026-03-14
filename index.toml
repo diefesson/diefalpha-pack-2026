@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d949164e3ee655b8ae0b01e0c9e7fac69608a7fc94b3909af918e8321e56d3a1"
+hash = "db408656b1703a9f7f0793a571cc657c449f27a856cceb6885e4e2cbe4a952be"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -155,7 +155,7 @@ hash = "d5861d025473ddd0a9b5326698b044546072e95028ef7f4ad8f438fad1bb7e09"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
-hash = "199bf2e9d3c75fc269089344c2efe8d74cf77e5c78cd9af77f60e64981dfc51a"
+hash = "ee309a048f9c4497d4e5a42ad361fc8d70c68e92c74bd4b2ce816a123a657968"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
