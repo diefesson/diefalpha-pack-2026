@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fe824468870d78fd917c413790188f7f6c4ba2c19931d997b9d613314920d776"
+hash = "d949164e3ee655b8ae0b01e0c9e7fac69608a7fc94b3909af918e8321e56d3a1"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -204,6 +204,14 @@ hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
 [[files]]
 file = "config/stylisheffects-client.toml"
 hash = "8740a2bf088e9155a88bd30e405b159d9f81591070c5f6ce93845ab305c21797"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "ead5290f0e85e9e803dba9a8bcf9a637fa16d3a7724f501ec45d60e1bd0501f2"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "3742181a12d7bd978ad84078cd54504e894ba9cf5b77b066b0c4c38778813b65"
 
 [[files]]
 file = "config/toolstats.json"
@@ -829,6 +837,11 @@ hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "a93f0e9edd075e9f7636bc4ef206318698fe4481377fdf8786789877070c4922"
 metafile = true
@@ -999,11 +1012,6 @@ hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
-file = "mods/runiclib.pw.toml"
-hash = "2dbe8c4d2e526717bb37fca847e0d7e42c2f65575e90883b096a2cd2787ccb30"
-metafile = true
-
-[[files]]
 file = "mods/scarecrows-territory.pw.toml"
 hash = "4b60b5b814559c39e2c60cf63572a8b025362657e0092faf7d640e9086281f2c"
 metafile = true
@@ -1081,6 +1089,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
 metafile = true
 
 [[files]]
