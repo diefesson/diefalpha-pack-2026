@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "db408656b1703a9f7f0793a571cc657c449f27a856cceb6885e4e2cbe4a952be"
+hash = "bbc3fd12fc6cdc4c2c87586ef0a1f64e59c1ad625040e4bc18fd4551143b3500"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -204,14 +204,6 @@ hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
 [[files]]
 file = "config/stylisheffects-client.toml"
 hash = "8740a2bf088e9155a88bd30e405b159d9f81591070c5f6ce93845ab305c21797"
-
-[[files]]
-file = "config/tconstruct-client.toml"
-hash = "ead5290f0e85e9e803dba9a8bcf9a637fa16d3a7724f501ec45d60e1bd0501f2"
-
-[[files]]
-file = "config/tconstruct-common.toml"
-hash = "3742181a12d7bd978ad84078cd54504e894ba9cf5b77b066b0c4c38778813b65"
 
 [[files]]
 file = "config/toolstats.json"
@@ -1089,16 +1081,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
-metafile = true
-
-[[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
 
 [[files]]
