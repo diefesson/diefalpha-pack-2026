@@ -1,0 +1,13 @@
+name = "Actually Subtractions"
+filename = "ActuallySubtractions-1.20.1-1.2.14.20+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p0GIFyBv/versions/W4qz3vMV/ActuallySubtractions-1.20.1-1.2.14.20%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "8ef40c95d7baa6072f16eb44cbf99ef4dca7c579f0bb203d68ca9868e5b7da2b1e3aae8d4880be0b3336151bd79a93a4099f60be6cc546ddf64c68c58574c0d9"
+
+[update]
+[update.modrinth]
+mod-id = "p0GIFyBv"
+version = "W4qz3vMV"
