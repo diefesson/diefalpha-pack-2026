@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "438142d74e55f6c490aaf0c7b73f762bc1f274b3b31be1deb94dc7d253349575"
+hash = "7959ae3d2610816dfb6ea06891868ede78cdeee94e89f4028e94b5c2dd763fb6"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -412,11 +412,6 @@ hash = "3822093353741befa4d356069d1a636611d2d626c659aa3f8059132dfd7cadc5"
 [[files]]
 file = "kubejs/startup_scripts/src/diefalpha/volatile_dust.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
-
-[[files]]
-file = "mods/actually-subtractions.pw.toml"
-hash = "e304a6f4bc2f081cd43935c74d2a850c8bad8d7bfd6c67992323233e177314aa"
-metafile = true
 
 [[files]]
 file = "mods/ae2-import-export-card.pw.toml"
