@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "64849bb33612d808dd2436c346950bb1f063c03216f62112f406dd0feb9438be"
+hash = "438142d74e55f6c490aaf0c7b73f762bc1f274b3b31be1deb94dc7d253349575"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -255,7 +255,7 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "fcfb4d64ba4a721f8cfc656677a89b7f90252e81ba52214432bb0c632739554a"
+hash = "72736b3002a07c79e6df4749ba96ad838964ea549579207c700745212cd76136"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
@@ -267,7 +267,7 @@ hash = "5ae47564cc62efba160283484948a3aa7fd2b895dbb7e9a8651f2770e48e47a1"
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "796e044d55578d6cbfe4481b4ab1a86938c59e809375d2bc998cbbfaa41e2b29"
+hash = "315dbc8796f15207505764a934d2d3b033f1f9990b6f4f644726074b1db2f70e"
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
@@ -279,7 +279,7 @@ hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "903d5b33e331bd14d51930c72a50e3ea2986d0e5a5eeb191dc554cdc6866183d"
+hash = "cda0fac1537b5aad917172baf5f79e4bd7aaa5f95ad92db133bd60d63fdd7fd6"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
