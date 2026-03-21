@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7177a2cbae191076ec1378c3fa5d5db373a8e74b2e4d0db3d6bf2a89a74f1e67"
+hash = "784b87f5179ec5d4b7b09d88f9ae1752b1c486e9fab35ed58a3a277288b2bf53"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -508,6 +508,11 @@ hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "b6d8fef872aac09946c194edf3684b64af1a70e150f3703e380676e4f938c982"
+metafile = true
+
+[[files]]
 file = "mods/capability-proxy.pw.toml"
 hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
 metafile = true
@@ -550,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -620,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "4d4bc3f85ac72b03a999650eb8e0741bbcc3257691a7940df5bb3a5830e5498b"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "bd39c958001bcdf13acd853692e21d57c34b199ffb5343a14f38eb657a84d65b"
 metafile = true
 
 [[files]]
@@ -1154,4 +1169,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7f0371939a551a0589fcdbbac3a0c0c536131a5ca6ca2b34ad51109ce195bc09"
+hash = "cbd4d4f146ef46fa93dd19d1a2d7dc4f79579063f7b2e8b3e1ba784e9ca38707"
