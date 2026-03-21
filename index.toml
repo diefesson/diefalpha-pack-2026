@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "90a54d8e14678016777405a39c610a430c858456ae6892bb2b3791db987af537"
+hash = "7177a2cbae191076ec1378c3fa5d5db373a8e74b2e4d0db3d6bf2a89a74f1e67"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -643,6 +643,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/embers-delight.pw.toml"
+hash = "b9928d9bb16764fc6ae1f77ca7d4c85c6820b10b18223978615f2dad7da04f29"
+metafile = true
+
+[[files]]
 file = "mods/embers.pw.toml"
 hash = "5d252ea8cc4b4e18a5ab851045c09392e53f3ba41fc5b1e210cf69ee60e8a3e8"
 metafile = true
@@ -685,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "c2dd4c95f3b6a0949cf7c2787377a93ff08af93f18bc31a1b3b625ebea5162d1"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "fd26706fd4da11e5421f19398d4a5e23aeed594b1de41da8e2db7a3c84506f1e"
 metafile = true
 
 [[files]]
@@ -1005,6 +1015,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "c7d72b03dbad26ff31f40aa4e655c8876e3b2d2e9676e7096b4c42d57bfbee08"
 metafile = true
 
 [[files]]
