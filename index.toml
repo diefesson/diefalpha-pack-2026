@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7959ae3d2610816dfb6ea06891868ede78cdeee94e89f4028e94b5c2dd763fb6"
+hash = "90a54d8e14678016777405a39c610a430c858456ae6892bb2b3791db987af537"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -200,6 +200,10 @@ hash = "a0ad1c4b35b0f25c8bccdea2c9d09461eeb9c073a323328d759e02c8c761123d"
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "230ef74f58b4ebfb809cc474e881be3462ede61d56a86437e935b4a3a1ac99f3"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
