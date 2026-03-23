@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a2ad608a8f169c788ca7af2d8a52e5a8ee27d12e951bf2913fbbd259063f2861"
+hash = "ee8b7e168029f8e9eff16467c3358128b06098214be6c092bc894257bd3251be"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -134,7 +134,7 @@ hash = "57c149b9016251e516ceedfba8eb2a6ae8f8daad1080d9371c2cd5d624807ff7"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "0ce846e6837319493aac6930404cdd76112036758225daf0d8da1a9087153326"
+hash = "bca7cd902b241070cbb394e8b87e265cedaaaff33d54c995f2e8b5ebb1d078d5"
 
 [[files]]
 file = "config/patchouli-client.toml"
