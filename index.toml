@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "784b87f5179ec5d4b7b09d88f9ae1752b1c486e9fab35ed58a3a277288b2bf53"
+hash = "a2ad608a8f169c788ca7af2d8a52e5a8ee27d12e951bf2913fbbd259063f2861"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -34,7 +34,7 @@ hash = "29fec9cf06f383238a29276ef226df564968df9590a03ecc4a42a6ccae1dfb14"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "ff7b3ac0d0bd4eb9c6d71ec7dfa868dec3cbc66963a44be9df22f38ced90d31b"
+hash = "5d359a37c4f2163416da95fc7c2d743bd6dcaf3ea17d22017f98590da7aa633a"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
