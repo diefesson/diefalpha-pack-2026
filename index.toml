@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4547fbcf14967dcbd3a45f3642ae891b0534003b3cffb146701fbb4c1a300e54"
+hash = "a6aea9efaf3ac49c57351746d4e8817c622fbd8c21aaa9f4e3d11dde54129ee5"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -82,7 +82,7 @@ hash = "8ddec062d0296e2203a45babd0cc93d2305ef42b34367001954bcee03aa45612"
 
 [[files]]
 file = "config/horseman-client.toml"
-hash = "094f84a9acd2d7971dd92f4c79627bc70af675843ec43a075f9e8b22aed86a3c"
+hash = "7bec6638095cd3f8606012fa81870d5a0c72e04f4eb186a127eeeb52767d23fc"
 
 [[files]]
 file = "config/horseman-common.toml"

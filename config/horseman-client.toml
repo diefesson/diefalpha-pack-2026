@@ -1,5 +1,5 @@
 #Adjusts gui to render hunger bar, xp bar and xp level. Makes horse jump bar render only when jumping. Default: true
-improved_mount_gui = true
+improved_mount_gui = false
 #Prevents horse jump meter from filling up when mount is in the water. Default: true
 prevent_jumping_in_water = true
 #Offset to horse model head pitch while riding. Lowers the head so it's not blocking the view. Default: 20
