@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2d19de944d4f2dda77c1c00c1a34754abda42d870e9bdf616046c642db68e288"
+hash = "241121a5c729e59d114e5eda7ab1cacf7727432b110cba4df2403e4311e28462"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -488,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/bartering-station.pw.toml"
 hash = "67c62e4c44abab8dbed72009900731830e689c80a1d4cd9f706f56a327d1a087"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
 
 [[files]]
