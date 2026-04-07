@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a6aea9efaf3ac49c57351746d4e8817c622fbd8c21aaa9f4e3d11dde54129ee5"
+hash = "2d19de944d4f2dda77c1c00c1a34754abda42d870e9bdf616046c642db68e288"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -79,6 +79,10 @@ hash = "1accf87f44c0d5f612b8d2208a59eba1b2c4a2a6935b03ef3471cf9e6ade2ed7"
 [[files]]
 file = "config/highspeed-rail.json5"
 hash = "8ddec062d0296e2203a45babd0cc93d2305ef42b34367001954bcee03aa45612"
+
+[[files]]
+file = "config/horseexpert-client.toml"
+hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
 
 [[files]]
 file = "config/horseman-client.toml"
@@ -759,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/highspeed-rail.pw.toml"
 hash = "d86750667678435db76d59f41fbd9c4047a3099113ae8d603f424ee638e3110e"
+metafile = true
+
+[[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "e8901fd36b57cc736dae93d6b0c991c847372bf47813b896a3675c990d7eb761"
 metafile = true
 
 [[files]]
