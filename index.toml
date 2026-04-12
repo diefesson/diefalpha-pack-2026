@@ -17,10 +17,6 @@ file = "config/almostunified/unify.json"
 hash = "dcea8a4c70bd38c25db7f197b39f264da43c56cd0bd8ae933e318e5e4a90e17b"
 
 [[files]]
-file = "config/astikorcarts-common.toml"
-hash = "675b1722c214c4434db25850d08b9c903f8b3e1a7b9b3eb1e7b5f84351a3ef90"
-
-[[files]]
 file = "config/barteringstation-client.toml"
 hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 
@@ -30,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "037026935fcfd4e0cd045397949a2b4a4496176dd4af73b52f5d70af6aaac8fe"
+hash = "c077dcd30a90c535b20c2c9152912dcd3fac76668c2178e52271dfa2e73618d4"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -79,10 +75,6 @@ hash = "436c034b494fefb6c83c48f409f241f68a5decc5a88bc3602542eb21fe441a08"
 [[files]]
 file = "config/hiddenrecipebook.json5"
 hash = "1accf87f44c0d5f612b8d2208a59eba1b2c4a2a6935b03ef3471cf9e6ade2ed7"
-
-[[files]]
-file = "config/highspeed-rail.json5"
-hash = "8ddec062d0296e2203a45babd0cc93d2305ef42b34367001954bcee03aa45612"
 
 [[files]]
 file = "config/horseexpert-client.toml"
@@ -479,11 +471,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/astikorcarts-redux.pw.toml"
-hash = "c3daae892d91d5b36c65fbd18f19d22a61fcac210f25350cde0a413c6a49210f"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1af0f2515f459bc59ac0f489ef94bf2d6e0453e57831d5711c64da695929bde9"
 metafile = true
@@ -776,11 +763,6 @@ metafile = true
 [[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "005920cd18ea09c63df60a2007852c1791d9af4b19d74a5e5e9cff5f14461ec4"
-metafile = true
-
-[[files]]
-file = "mods/highspeed-rail.pw.toml"
-hash = "d86750667678435db76d59f41fbd9c4047a3099113ae8d603f424ee638e3110e"
 metafile = true
 
 [[files]]
