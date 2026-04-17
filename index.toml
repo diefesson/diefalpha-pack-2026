@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e7d13aca20c2ed97249c29393d132344bd9f2bacaf2340b1e9f54a4d2884f4b5"
+hash = "11a96c9473fc2abee6b662ee69f9c889383735d81df8e4fb178799c2cd89acb9"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -553,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
+file = "mods/clayworks.pw.toml"
+hash = "d1a1614acad3bd48477c1047c72e6d088c1760aab683ebfdb6da3c7529a9ee97"
 metafile = true
 
 [[files]]
