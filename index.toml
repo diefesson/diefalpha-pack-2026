@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "503fd73f17967e1e2b816c14c59b4d0f49df581ee2f2e15ceb7f41134c636f5a"
+hash = "e7d13aca20c2ed97249c29393d132344bd9f2bacaf2340b1e9f54a4d2884f4b5"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -706,6 +706,11 @@ hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
+file = "mods/energymeter.pw.toml"
+hash = "8ebb8f39ada37d9640fad1c70488ea54432840a58f5a49fa93cb880580cfb40d"
+metafile = true
+
+[[files]]
 file = "mods/engineered-compatibility.pw.toml"
 hash = "d101ff458c12295e3d292a0efab484ed48ad6d2540c7232007091c6d8c174db4"
 metafile = true
@@ -1008,6 +1013,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "76bfc1b2689919394cdf14b28cc97110f20a43e53aa69bbccd1b4a6aa850a046"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "5f62a327932de16d603c5d922ff655069ac8fd8ccffb5f3f8b23f6cda4c04da0"
 metafile = true
 
 [[files]]

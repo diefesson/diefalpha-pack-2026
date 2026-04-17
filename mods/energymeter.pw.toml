@@ -1,0 +1,13 @@
+name = "Energy Meter"
+filename = "energymeter-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MbejSZ2E/versions/NZ6nFTb9/energymeter-forge-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "16c021ac5a91e97b5b06f2c7e1d929d05f11fbf0db6aa3938e5fbce3d97b71abacc3ad5dd8ce541ff0b4347eb50a6b7e9c3052079f64f126ebed255a7a7215a9"
+
+[update]
+[update.modrinth]
+mod-id = "MbejSZ2E"
+version = "NZ6nFTb9"
