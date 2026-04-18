@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "11a96c9473fc2abee6b662ee69f9c889383735d81df8e4fb178799c2cd89acb9"
+hash = "c63abf3698dece0ceccbc907287d5159942176bd08059b210fc5ff7b838faea2"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -46,7 +46,7 @@ hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "3bde9a4766577a596cef61cf1d6473309dfe85197b48aac311ae7778910f8c74"
+hash = "f2a14e0d3a425871bafa4648f0d25ab01682eea948246261865ffc390671facf"
 
 [[files]]
 file = "config/distraction_free_recipes-client.toml"
