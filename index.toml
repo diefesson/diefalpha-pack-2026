@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c63abf3698dece0ceccbc907287d5159942176bd08059b210fc5ff7b838faea2"
+hash = "b9280ce53086932374328b104603dca329cd77c35bbc6566c879fba4a2150aac"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -71,6 +71,10 @@ hash = "0b0510c2adcb206ce43eb4ca466165d854e20480ed894f76024760330b7485d1"
 [[files]]
 file = "config/emitrades.json5"
 hash = "436c034b494fefb6c83c48f409f241f68a5decc5a88bc3602542eb21fe441a08"
+
+[[files]]
+file = "config/experienceobelisk-common.toml"
+hash = "8d9890a77d835df68cbe949cfc4d45137ba8693475fe4689ac1eb58aab0031d5"
 
 [[files]]
 file = "config/hiddenrecipebook.json5"
@@ -581,6 +585,11 @@ hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
+file = "mods/cognition.pw.toml"
+hash = "f789b0c4a0b24cb288c54a9a65e3a3896c8f14383f46ec1050b801e71cf7f229"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
@@ -758,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "77db38b9f476e5a488532b9fc1c35586e3e1a382bdd901cdc4736c7c36680ff7"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
 metafile = true
 
 [[files]]
