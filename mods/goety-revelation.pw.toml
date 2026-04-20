@@ -1,0 +1,13 @@
+name = "Goety: Revelation"
+filename = "GoetyRevelation-2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VayV26Pa/versions/JAaIdpY7/GoetyRevelation-2.3.2.jar"
+hash-format = "sha512"
+hash = "ec1741d47bccfcb7e377111764b2fe370cbff5de0a6f946ed69da437d2f24d0c978fda6b76aaf3c6eaf2dae5cd75ebd503e8f1be61e00ed3e2fc3d26784d0080"
+
+[update]
+[update.modrinth]
+mod-id = "VayV26Pa"
+version = "JAaIdpY7"

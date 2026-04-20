@@ -1,0 +1,13 @@
+name = "EndingLibrary"
+filename = "EndingLibrary-1.20.1-2.1.15-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tMycyukv/versions/MLYtgElJ/EndingLibrary-1.20.1-2.1.15-all.jar"
+hash-format = "sha512"
+hash = "581d7146db5815177150ebc082bd8cc9aa77809e2032a199d5a9553f9e0b48236648118aae1d8f9adc9914b4cdac59ba45511bb86dbe024f6829394398965642"
+
+[update]
+[update.modrinth]
+mod-id = "tMycyukv"
+version = "MLYtgElJ"
