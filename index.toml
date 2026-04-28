@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b9280ce53086932374328b104603dca329cd77c35bbc6566c879fba4a2150aac"
+hash = "70a9de713a1b2bd3fffdc4af24f4b76c3d9ad402abb1dfe92cb0edb4e8e73b31"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -812,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "b0d0f0adc6cde73de53e4d4a2841071adf2e3091b1a8937edc6797fa381774de"
 metafile = true
 
 [[files]]
