@@ -1,0 +1,13 @@
+name = "Exposure: Polaroid"
+filename = "exposure_polaroid-forge-1.20.1-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEWiqYkW/versions/rlmCEdq5/exposure_polaroid-forge-1.20.1-1.1.3.jar"
+hash-format = "sha512"
+hash = "1acbda42982f69c522150cd26d5cfbc3feccc05352c9eebac8cbf530a4204a431fcfb7764362c68d96bc13e66b6752a18c41f40b30a842c15431f16d8fd25bdc"
+
+[update]
+[update.modrinth]
+mod-id = "WEWiqYkW"
+version = "rlmCEdq5"

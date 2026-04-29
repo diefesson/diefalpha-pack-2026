@@ -1,0 +1,13 @@
+name = "Exposure: Expanded"
+filename = "exposure_expanded-forge-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/61XQmq6p/versions/yJ2d6ufu/exposure_expanded-forge-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "4dff03016cd3e1990c06af8d989a8eca6abd7c74554a61e351b5eb2ef2f3104c0c173a6f88b0f9bf37d09c35258e34a6029f3d47df47d44c50dd2e57893fe860"
+
+[update]
+[update.modrinth]
+mod-id = "61XQmq6p"
+version = "yJ2d6ufu"

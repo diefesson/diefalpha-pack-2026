@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "19c9d8917abd628ddbec3b13f5febe3bf994d8fd3ce0212cd4aca6ba7cc19544"
+hash = "e48091951a2e43ff8576825107a0094d3c2cf813b83150c48ede1101edd5326c"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -47,6 +47,14 @@ hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
 [[files]]
 file = "config/combatnouveau-server.toml"
 hash = "f2a14e0d3a425871bafa4648f0d25ab01682eea948246261865ffc390671facf"
+
+[[files]]
+file = "config/distinguishedpotions-client.toml"
+hash = "efc2372d7b90a2932268bf0fd7e40a3aad9da4c5fb50fd76fe6e6ed8e296d03b"
+
+[[files]]
+file = "config/distinguishedpotions-common.toml"
+hash = "8040139bc858a92cbd37fd40a9c3117ef19a64b90b2ac772ed9d9b11212c5a79"
 
 [[files]]
 file = "config/distraction_free_recipes-client.toml"
@@ -732,6 +740,26 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
+metafile = true
+
+[[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
+metafile = true
+
+[[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "613f0e7368073e82b66bdc7eedfc58834e4441068babcefdd9ba896185bb4348"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "553a0eb1733483dd050146f429b1a4db6373115c072e85f74d730e72304f71a2"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "8892d5b079962918bfc90e2c026c7813b07409d93789090ac56e2f990e84c3e2"
 metafile = true
 
 [[files]]
