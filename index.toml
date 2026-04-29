@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "70a9de713a1b2bd3fffdc4af24f4b76c3d9ad402abb1dfe92cb0edb4e8e73b31"
+hash = "d1e6bdd5a416f6319eaf3963c0c255882dfd8c3cbf3725c3c209746baa242522"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -311,7 +311,7 @@ hash = "5d38b9b12f786263f521e3adaa374a99a8d722b8a767f71bc50c88c81a57b5a0"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "9ac19b0c23a3026adc8154529cb9a704434c2586ad00c538223d3e8585452d7a"
+hash = "c0ea38ba5e971873bfb35ce4fc7ee0cb2a47ddb232f9934338a54665db97579a"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
