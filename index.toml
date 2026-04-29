@@ -26,7 +26,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "48f164c22ae8adf3c429442fb8591437300166ba334bbdb97daa1b0de7e9bd29"
+hash = "a0367b98208590c3ab45bab6048b91d3ecb8f653cabf7f0d6c27c495635ad3f4"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -436,6 +436,11 @@ hash = "3822093353741befa4d356069d1a636611d2d626c659aa3f8059132dfd7cadc5"
 [[files]]
 file = "kubejs/startup_scripts/src/diefalpha/volatile_dust.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
+
+[[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "dbf20c5bececfab3592aace58f3e8460662f3071d31e33d290d12f5c27fbf544"
+metafile = true
 
 [[files]]
 file = "mods/ae2-import-export-card.pw.toml"
@@ -965,6 +970,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "e62ad317cabfbe4a6e62a77f391ae95c6e955df496cef5278fb4ed7760908ab3"
 metafile = true
 
 [[files]]
