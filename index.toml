@@ -17,6 +17,10 @@ file = "config/almostunified/unify.json"
 hash = "dcea8a4c70bd38c25db7f197b39f264da43c56cd0bd8ae933e318e5e4a90e17b"
 
 [[files]]
+file = "config/appleskin-client.toml"
+hash = "f2664dcd220311e53215937f80ccc4da84d4232c8f5f32fad492228abb8f2e21"
+
+[[files]]
 file = "config/barteringstation-client.toml"
 hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 
@@ -26,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a0367b98208590c3ab45bab6048b91d3ecb8f653cabf7f0d6c27c495635ad3f4"
+hash = "c18b3d42e9a665ed7740a335b57db5fb54b6bd046822c358fc6ee2df2de5eb6d"
 
 [[files]]
 file = "config/blockrunner.json"
