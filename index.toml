@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c18b3d42e9a665ed7740a335b57db5fb54b6bd046822c358fc6ee2df2de5eb6d"
+hash = "a35c2cddf31e16fa9f84fdabdd652757832d89d0e8c663c051fde4dc235e5dea"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -1032,6 +1032,11 @@ hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
@@ -1268,4 +1273,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cbd4d4f146ef46fa93dd19d1a2d7dc4f79579063f7b2e8b3e1ba784e9ca38707"
+hash = "557cc483aaee64463837f8a95867bd9ee43f4d06acdb81bc3d9b4002a4eb128d"

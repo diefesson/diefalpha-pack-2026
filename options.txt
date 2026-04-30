@@ -54,7 +54,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.m:CONTROL
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
@@ -118,6 +118,7 @@ key_key.drop:key.keyboard.q
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.fast_placement:key.keyboard.unknown
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.f11
@@ -185,6 +186,7 @@ key_key.jump:key.keyboard.space
 key_key.left:key.keyboard.a
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
+key_key.observable.profile:key.keyboard.u
 key_key.open_muffler_gui:key.keyboard.unknown
 key_key.personality.crawl:key.keyboard.c
 key_key.personality.sit:key.keyboard.unknown
