@@ -18,7 +18,7 @@ hash = "dcea8a4c70bd38c25db7f197b39f264da43c56cd0bd8ae933e318e5e4a90e17b"
 
 [[files]]
 file = "config/appleskin-client.toml"
-hash = "f2664dcd220311e53215937f80ccc4da84d4232c8f5f32fad492228abb8f2e21"
+hash = "86251d0e4d9586ec8c0ad88f4ee66f56576fa5b07d05d4ecd2c2eab518d052cc"
 
 [[files]]
 file = "config/barteringstation-client.toml"
@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a35c2cddf31e16fa9f84fdabdd652757832d89d0e8c663c051fde4dc235e5dea"
+hash = "20d20c66a155650617f2ef5897bacbea349f8038061443d002e69f39d8db6a81"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -1134,11 +1134,6 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "c7d72b03dbad26ff31f40aa4e655c8876e3b2d2e9676e7096b4c42d57bfbee08"
-metafile = true
-
-[[files]]
-file = "mods/saturation-plus.pw.toml"
-hash = "3a19409a01292e0cc4d0c29b1b5780b6429c2facdc2296696d3dd15c0e1a2898"
 metafile = true
 
 [[files]]
