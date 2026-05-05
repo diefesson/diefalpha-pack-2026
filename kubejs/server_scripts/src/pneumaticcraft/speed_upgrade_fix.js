@@ -17,7 +17,7 @@ ServerEvents.recipes(event => {
     ).id('diefalpha:pneumaticcraft/speed_upgrade_from_sugar')
 
     event.shaped(
-        'pneumaticcraft:speed_upgrade',
+        '2x pneumaticcraft:speed_upgrade',
         [
             'USU',
             'SBS',

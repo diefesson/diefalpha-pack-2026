@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "20d20c66a155650617f2ef5897bacbea349f8038061443d002e69f39d8db6a81"
+hash = "51666d415f850b092c731c1e8b3ad0ce9afd889e9a806a371a7269ef10bab0ca"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -403,11 +403,11 @@ hash = "f614e251c8c583b9fe4141a5caa454fa6e3cbe57a2a3e526bf90045c04154fb6"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
-hash = "e82b57063b387f7a9dc0537354efe63e4ee330c0e59c603f737c33b60e0c099a"
+hash = "c329249e4e8e9a9fbf9a7a9524773ad315942643b1c12eb8610aedf4e92c93b9"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/horse_gears.js"
-hash = "e96e353f6a85246ae9c09cde93eef02b0b8d16b6db2a8ecaefc9bd15af1a28b3"
+hash = "8ae28ce7a3e5e7524ada0b6452385080018ba23d502b60d81d337e8f974e4879"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/map.js"
@@ -419,11 +419,11 @@ hash = "2d12507ef3e26be9864829a87e616916957f2a38e42097fc6ef4cf02d6ca5376"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
-hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
+hash = "2baf9bd18a89d06e49d251bf8f45caec58cec970a9aa62e91d02b386fe1c7698"
 
 [[files]]
 file = "kubejs/server_scripts/src/pneumaticcraft/speed_upgrade_fix.js"
-hash = "df0a476145fc8980f039e01a449f3ee964d6e15df5162cf70ed546dd4e489d93"
+hash = "006513c10d2fbf47588e27ae7ed8d3d767d125b21993b848743d3bdf8c86ed84"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
