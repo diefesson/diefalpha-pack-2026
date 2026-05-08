@@ -12,5 +12,5 @@ ServerEvents.recipes(event => {
             I: '#forge:ingots/iron',
             E: '#forge:gems/emerald',
         },
-    )
+    ).id('diefalpha:bell')
 })

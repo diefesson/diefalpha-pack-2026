@@ -1,19 +1,40 @@
 ServerEvents.recipes(event => {
-    Item.getList().forEach(item => {
-        if (item.hasTag('minecraft:decorated_pot_sherds')){
-            event.shaped(
-                item,
-                [
-                    'BSB',
-                    'BTB',
-                    'BBB'
-                ],
-                {
-                    'B': 'minecraft:brick',
-                    'S': item,
-                    'T': 'minecraft:terracotta'
-                }
-            )
-        }
-    })
+
+    const sherds = [
+        'minecraft:angler_pottery_sherd', 
+        'minecraft:archer_pottery_sherd', 
+        'minecraft:arms_up_pottery_sherd', 
+        'minecraft:blade_pottery_sherd', 
+        'minecraft:brewer_pottery_sherd', 
+        'minecraft:burn_pottery_sherd', 
+        'minecraft:danger_pottery_sherd', 
+        'minecraft:explorer_pottery_sherd', 
+        'minecraft:friend_pottery_sherd', 
+        'minecraft:heart_pottery_sherd', 
+        'minecraft:heartbreak_pottery_sherd', 
+        'minecraft:howl_pottery_sherd', 
+        'minecraft:miner_pottery_sherd', 
+        'minecraft:mourner_pottery_sherd', 
+        'minecraft:plenty_pottery_sherd', 
+        'minecraft:prize_pottery_sherd', 
+        'minecraft:sheaf_pottery_sherd', 
+        'minecraft:shelter_pottery_sherd', 
+        'minecraft:skull_pottery_sherd', 
+        'minecraft:snort_pottery_sherd'
+    ]
+
+    for (let sherd of sherds) {
+        event.shaped(
+            Item.of(sherd, 2),
+            [
+                ' B ',
+                'BSB',
+                ' B ',
+            ],
+            {
+                'B': 'minecraft:brick',
+                'S': sherd,
+            }
+        ).id('diefalpha:sherd_duplication/' + sherd.split(':')[1])
+    }
 })

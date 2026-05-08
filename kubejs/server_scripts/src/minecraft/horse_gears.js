@@ -11,7 +11,7 @@ ServerEvents.recipes(event => {
             L: '#forge:leather',
             I: '#forge:ingots/iron',
         },
-    )
+    ).id('diefalpha:saddle')
 
     // Armor
     let materials = [
@@ -38,6 +38,6 @@ ServerEvents.recipes(event => {
             {
                 M: material,
             },
-        )
+        ).id('diefalpha:' + armor.split(':')[1])
     }
 })

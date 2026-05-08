@@ -17,6 +17,10 @@ file = "config/almostunified/unify.json"
 hash = "55969a32002cade150f99900c5ac9c5ac953ba4a7c297ff89554ed1c46b289ed"
 
 [[files]]
+file = "config/appleskin-client.toml"
+hash = "86251d0e4d9586ec8c0ad88f4ee66f56576fa5b07d05d4ecd2c2eab518d052cc"
+
+[[files]]
 file = "config/barteringstation-client.toml"
 hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 
@@ -26,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d4ce5f7b0aa2364e9bf3e34a30be632645bcbc82d02277f64a3f22cb6b7c4396"
+hash = "3d7ee52417a0b2d44f4f22b4fd96a3005149af7c6becef30f7a05bfb6af125f3"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -47,6 +51,14 @@ hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
 [[files]]
 file = "config/combatnouveau-server.toml"
 hash = "f2a14e0d3a425871bafa4648f0d25ab01682eea948246261865ffc390671facf"
+
+[[files]]
+file = "config/distinguishedpotions-client.toml"
+hash = "efc2372d7b90a2932268bf0fd7e40a3aad9da4c5fb50fd76fe6e6ed8e296d03b"
+
+[[files]]
+file = "config/distinguishedpotions-common.toml"
+hash = "8040139bc858a92cbd37fd40a9c3117ef19a64b90b2ac772ed9d9b11212c5a79"
 
 [[files]]
 file = "config/distraction_free_recipes-client.toml"
@@ -311,11 +323,11 @@ hash = "be0b70746371d39fc1645444fe51daa505a424901e325df1503859a275d9e27d"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
-hash = "e82b57063b387f7a9dc0537354efe63e4ee330c0e59c603f737c33b60e0c099a"
+hash = "c329249e4e8e9a9fbf9a7a9524773ad315942643b1c12eb8610aedf4e92c93b9"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/horse_gears.js"
-hash = "e96e353f6a85246ae9c09cde93eef02b0b8d16b6db2a8ecaefc9bd15af1a28b3"
+hash = "8ae28ce7a3e5e7524ada0b6452385080018ba23d502b60d81d337e8f974e4879"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/map.js"
@@ -331,7 +343,7 @@ hash = "2d12507ef3e26be9864829a87e616916957f2a38e42097fc6ef4cf02d6ca5376"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
-hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
+hash = "2baf9bd18a89d06e49d251bf8f45caec58cec970a9aa62e91d02b386fe1c7698"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
@@ -344,6 +356,11 @@ hash = "2f58b63aa544bb7433a7a3d74cfcfa82ce142cbd626acb25dab7d039109f72a9"
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "3822093353741befa4d356069d1a636611d2d626c659aa3f8059132dfd7cadc5"
+
+[[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "dbf20c5bececfab3592aace58f3e8460662f3071d31e33d290d12f5c27fbf544"
+metafile = true
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"
@@ -816,6 +833,11 @@ hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "69e705c40401aeeda2983a47be0b08ab8fbbe559ec03c17d7a565bae8ac526bb"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "33b81bba2d8a156fb1115be572f01c4e7e4bc76d83421bfa3c884e75880bdeeb"
 metafile = true
@@ -868,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
 metafile = true
 
 [[files]]
@@ -1076,6 +1103,11 @@ hash = "892dd095d1ae9aca8e2ef775fddf28677cd7cfbb6407d52bbbd8cc4a15286bb8"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "08197948c8d9e5714a89ebaba83f7304b24892340ddc288144cc0c363cf128d8"
 metafile = true
@@ -1117,4 +1149,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cbd4d4f146ef46fa93dd19d1a2d7dc4f79579063f7b2e8b3e1ba784e9ca38707"
+hash = "9a13d5783b45ed67c80d763acd0d01348c8bfb2e9ddf32a728572eda88473f1a"
