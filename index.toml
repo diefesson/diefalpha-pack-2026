@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3d7ee52417a0b2d44f4f22b4fd96a3005149af7c6becef30f7a05bfb6af125f3"
+hash = "2f088b71e66f0e3bcbeb42e80d10ca1e53cf89e71fce7f1d37cc2d4275488045"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -178,14 +178,6 @@ file = "config/stylisheffects-client.toml"
 hash = "8740a2bf088e9155a88bd30e405b159d9f81591070c5f6ce93845ab305c21797"
 
 [[files]]
-file = "config/tconstruct-client.toml"
-hash = "ead5290f0e85e9e803dba9a8bcf9a637fa16d3a7724f501ec45d60e1bd0501f2"
-
-[[files]]
-file = "config/tconstruct-common.toml"
-hash = "3742181a12d7bd978ad84078cd54504e894ba9cf5b77b066b0c4c38778813b65"
-
-[[files]]
 file = "config/toolstats.json"
 hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
 
@@ -316,10 +308,6 @@ hash = "10074c42ccde8071530aad498bd393de915ee9616c184dcb0541c823d70c5b59"
 [[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "397f040cd85c48746a28ca04bd71ccd22f8cf6ebf3279d99e6d4bffb804f88d1"
-
-[[files]]
-file = "kubejs/server_scripts/src/gliders/recipes.js"
-hash = "be0b70746371d39fc1645444fe51daa505a424901e325df1503859a275d9e27d"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
@@ -673,11 +661,6 @@ hash = "cdc66a084161b07f0f07e8a445272862270f1f7be71a8ec94959365395eadc86"
 metafile = true
 
 [[files]]
-file = "mods/gliders.pw.toml"
-hash = "6d77ca16224ccb8e09232b19a323f9e1c84e51b573684102a1f1015787bcdf90"
-metafile = true
-
-[[files]]
 file = "mods/goety-cataclysm.pw.toml"
 hash = "62876a4f12965f7a9d7b2c912cb1dd6971c7a97dc1dd968020e8b7618f666b41"
 metafile = true
@@ -715,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
-metafile = true
-
-[[files]]
-file = "mods/illager-invasion.pw.toml"
-hash = "de2f38aea5766676305ffff2000100c889b9278583379cfa04bba375ff45b6ec"
 metafile = true
 
 [[files]]
@@ -808,11 +786,6 @@ hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
 
 [[files]]
-file = "mods/mantle.pw.toml"
-hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
-metafile = true
-
-[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "a93f0e9edd075e9f7636bc4ef206318698fe4481377fdf8786789877070c4922"
 metafile = true
@@ -845,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
-metafile = true
-
-[[files]]
-file = "mods/mowzies-mobs.pw.toml"
-hash = "0e6b04ea03c95a193b564aee5c67b8912c52c1de61cd2bd43222c494e26bbbe9"
 metafile = true
 
 [[files]]
@@ -930,11 +898,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
-metafile = true
-
-[[files]]
-file = "mods/piglin-proliferation.pw.toml"
-hash = "7025b715a92ce9967619636a5c7ff2541ba9a4ab9182cd915ef7db329d474fe7"
 metafile = true
 
 [[files]]
@@ -1075,16 +1038,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-planner-reborn.pw.toml"
-hash = "c9daf60219ca0b36878cf50d2db0bf99307b6fc04dc4fb1ba8b9f9e57ce199b5"
 metafile = true
 
 [[files]]
