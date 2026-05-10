@@ -62,7 +62,7 @@
 		SpawnDelayMax = 500
 		#The XP value of spawned orbs. Default = 12
 		#Range: 1 ~ 32767
-		OrbValue = 12
+		OrbValue = 1
 		#The number of spawns until the bookshelf decays. Default = 50
 		#Range: 1 ~ 10000
 		Spawns = 50
@@ -79,7 +79,7 @@
 		SpawnDelayMax = 500
 		#The XP value of spawned orbs. Default = 24
 		#Range: 1 ~ 32767
-		OrbValue = 24
+		OrbValue = 2
 		#The number of spawns until the bookshelf decays. Default = 100
 		#Range: 1 ~ 10000
 		Spawns = 100
@@ -96,7 +96,7 @@
 		SpawnDelayMax = 500
 		#The XP value of spawned orbs. Default = 12
 		#Range: 1 ~ 32767
-		OrbValue = 12
+		OrbValue = 1
 		#The number of spawns until the bookshelf decays. Default = 50
 		#Range: 1 ~ 10000
 		Spawns = 100
