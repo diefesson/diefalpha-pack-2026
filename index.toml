@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e2fd80d0ca6f01e9899d93834699b5c438c88bc0d3236aa9f12fca4fbf93c5d2"
+hash = "0218af410913454df89cab87ebdf7e4f9e047a5010ecbd0d0dcb64660fafaa7d"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -737,6 +737,11 @@ hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "b38a80fb1bb72759cebf627d5e160102c6eb2895528d6cb1db096eee092daad2"
+metafile = true
+
+[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "8ebb8f39ada37d9640fad1c70488ea54432840a58f5a49fa93cb880580cfb40d"
 metafile = true
@@ -903,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
+hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
 metafile = true
 
 [[files]]
