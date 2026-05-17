@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8163c1800784429a2af435944d5c3e85d8a4be0e0bb6693811e6ebc43c004a22"
+hash = "fc2fc9deb52c5c960876035d2c90bfd60dc00d853b78d2afbd43fa8eced1df35"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -464,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/aetherworks-refracted.pw.toml"
 hash = "c0906b86b273da8798dce77f8991215d3f0de5a83eb6ce179f072d99b9ff5257"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
 metafile = true
 
 [[files]]
@@ -954,11 +959,6 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
-metafile = true
-
-[[files]]
-file = "mods/mantle.pw.toml"
-hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
 metafile = true
 
 [[files]]
