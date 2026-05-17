@@ -5,9 +5,9 @@
 	#Range: > 0
 	modpackProjectID = 0
 	#The name of the modpack
-	modpackName = "DiefAlpha Pack"
+	modpackName = "DiefAlpha Pack Horror"
 	#The version of the modpack
-	modpackVersion = "1.20.1-2026.05.12"
+	modpackVersion = "1.20.1-2026.05.14"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

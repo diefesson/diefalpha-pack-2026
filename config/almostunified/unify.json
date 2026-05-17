@@ -1,10 +1,7 @@
 {
   "modPriorities": [
     "minecraft",
-    "kubejs",
-    "immersiveengineering",
-    "ae2",
-    "embers"
+    "kubejs"
   ],
   "stoneStrata": [
     "stone",

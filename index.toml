@@ -14,7 +14,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "dcea8a4c70bd38c25db7f197b39f264da43c56cd0bd8ae933e318e5e4a90e17b"
+hash = "f611c8ae6f991b4b9c98302c88ff81bf22dadf5788af086c72a6bffe14305584"
 
 [[files]]
 file = "config/appleskin-client.toml"
@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8163c1800784429a2af435944d5c3e85d8a4be0e0bb6693811e6ebc43c004a22"
+hash = "1912a893d8cba486e77aa1cbc70881264a790f877655a56ade112b39217b3d8c"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -69,24 +69,12 @@ file = "config/embeddium-options.json"
 hash = "ccaaa5402e653fa3052088aaf5771328305f07ff726bb1424b783143506943df"
 
 [[files]]
-file = "config/embers-client.toml"
-hash = "c033affd1975bbd9ddc01623835250ee76ed68a4f1a7266071b8651c352521de"
-
-[[files]]
-file = "config/embers-common.toml"
-hash = "7c8d389a2b9258fd31148778c3d85bade795bb573b703f3c36a5bedfd7b0aa14"
-
-[[files]]
 file = "config/emi.css"
 hash = "0b0510c2adcb206ce43eb4ca466165d854e20480ed894f76024760330b7485d1"
 
 [[files]]
 file = "config/emitrades.json5"
 hash = "436c034b494fefb6c83c48f409f241f68a5decc5a88bc3602542eb21fe441a08"
-
-[[files]]
-file = "config/experienceobelisk-common.toml"
-hash = "1ebb823b6026f1a034bf7897521a2f46274799e687e1da8865d3181a115b830f"
 
 [[files]]
 file = "config/hiddenrecipebook.json5"
@@ -103,14 +91,6 @@ hash = "7bec6638095cd3f8606012fa81870d5a0c72e04f4eb186a127eeeb52767d23fc"
 [[files]]
 file = "config/horseman-common.toml"
 hash = "e14929450570470282fbda681ff4a21a5eb21722f8e370bc976f2e9758f0a2bd"
-
-[[files]]
-file = "config/immersiveengineering-client.toml"
-hash = "f6799d46f670baaa0a0714015922bce860e792bd109bdd180e709f2aed25de8a"
-
-[[files]]
-file = "config/immersiveengineering-common.toml"
-hash = "12710f6f8672809a7909a26363d0ba7e6f073b84bbf81c4c8e5cb94b13c25bfa"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
@@ -184,34 +164,6 @@ hash = "ee309a048f9c4497d4e5a42ad361fc8d70c68e92c74bd4b2ce816a123a657968"
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
 hash = "6e18bfa2ec02629937474e436f3f44fb67d54fd6e6b47a7c9b4c5b3a3bd83916"
-
-[[files]]
-file = "config/pneumaticcraft-client.toml"
-hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
-
-[[files]]
-file = "config/pneumaticcraft-common.toml"
-hash = "c1ef008433eea461f153154431b3f0b127e32de775d3c5b862ee7dcc51560b63"
-
-[[files]]
-file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
-hash = "0b8a774af5b8d3bad4eb57883418264e3f94d4bde83aa6d93161a50e8718fd0f"
-
-[[files]]
-file = "config/pneumaticcraft/MicromissileDefaults.cfg"
-hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
-
-[[files]]
-file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
-hash = "569a7727399eb2532a2320c17b379d88950105884440f1ede330cb8b73163a6e"
-
-[[files]]
-file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
-hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
-
-[[files]]
-file = "config/pneumaticcraft/thirdparty.cfg"
-hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
 file = "config/scarecrowsterritory-common.toml"
@@ -318,10 +270,6 @@ file = "config/xaerohud.txt"
 hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
-file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "5d38b9b12f786263f521e3adaa374a99a8d722b8a767f71bc50c88c81a57b5a0"
-
-[[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "c0ea38ba5e971873bfb35ce4fc7ee0cb2a47ddb232f9934338a54665db97579a"
 
@@ -338,10 +286,6 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/diefalpha/textures/item/volatile_dust.png"
-hash = "b2ce26485efdc92440003d41f66fb6096f2fef4131f1bf541d43e881082002ba"
-
-[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "da645518d6805cf2d11790314b7c5641ee53b8094a00e6a22fad8a58c1f2f7eb"
 
@@ -356,14 +300,6 @@ hash = "5a3c6ca69214a43c877629737abb17be2f5a1b913bb24d8a5d9df37048e0a2af"
 [[files]]
 file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
-
-[[files]]
-file = "kubejs/data/embers/worldgen/configured_feature/ore_lead.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/embers/worldgen/configured_feature/ore_silver.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -386,22 +322,6 @@ file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "397f040cd85c48746a28ca04bd71ccd22f8cf6ebf3279d99e6d4bffb804f88d1"
 
 [[files]]
-file = "kubejs/server_scripts/src/compat/armors_tags.js"
-hash = "07a562aae4a3b9e945e1a6b8a02d8c5f2909d87cd2c6cbb3feae6e8afeb51ea8"
-
-[[files]]
-file = "kubejs/server_scripts/src/compat/hammering.js"
-hash = "ca16b601cd0b47f3c7f8516c0f97c695b9bb3d2cc4aea3a3e4feff59007dbbca"
-
-[[files]]
-file = "kubejs/server_scripts/src/compat/tools_tags.js"
-hash = "e30b3326a4070a14b71cdfbd2e5334b1453c98058de8329b0cadd25ef52eee3c"
-
-[[files]]
-file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
-hash = "f614e251c8c583b9fe4141a5caa454fa6e3cbe57a2a3e526bf90045c04154fb6"
-
-[[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
 hash = "c329249e4e8e9a9fbf9a7a9524773ad315942643b1c12eb8610aedf4e92c93b9"
 
@@ -422,10 +342,6 @@ file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
 hash = "2baf9bd18a89d06e49d251bf8f45caec58cec970a9aa62e91d02b386fe1c7698"
 
 [[files]]
-file = "kubejs/server_scripts/src/pneumaticcraft/speed_upgrade_fix.js"
-hash = "006513c10d2fbf47588e27ae7ed8d3d767d125b21993b848743d3bdf8c86ed84"
-
-[[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
 hash = "d509d674ecdfce67e29b736bb53c09a55c6ef64ecf215cde3a99786afb1d4873"
 
@@ -436,10 +352,6 @@ hash = "2f58b63aa544bb7433a7a3d74cfcfa82ce142cbd626acb25dab7d039109f72a9"
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "3822093353741befa4d356069d1a636611d2d626c659aa3f8059132dfd7cadc5"
-
-[[files]]
-file = "kubejs/startup_scripts/src/diefalpha/volatile_dust.js"
-hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
@@ -459,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "e380187cf1daf27828ecba14a0752da077a84a588c8a46bf93eb7e3e7d41a386"
-metafile = true
-
-[[files]]
-file = "mods/aetherworks-refracted.pw.toml"
-hash = "c0906b86b273da8798dce77f8991215d3f0de5a83eb6ce179f072d99b9ff5257"
 metafile = true
 
 [[files]]
@@ -494,11 +401,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1af0f2515f459bc59ac0f489ef94bf2d6e0453e57831d5711c64da695929bde9"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.pw.toml"
-hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
 
 [[files]]
@@ -539,11 +441,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
-metafile = true
-
-[[files]]
-file = "mods/brandons-core.pw.toml"
-hash = "b6d8fef872aac09946c194edf3684b64af1a70e150f3703e380676e4f938c982"
 metafile = true
 
 [[files]]
@@ -597,16 +494,6 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
-file = "mods/codechicken-lib.pw.toml"
-hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
-metafile = true
-
-[[files]]
-file = "mods/cognition.pw.toml"
-hash = "f789b0c4a0b24cb288c54a9a65e3a3896c8f14383f46ec1050b801e71cf7f229"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
@@ -647,11 +534,6 @@ hash = "b76545662ec39beac21abf435bc3c8e141b0c743b92e8bbf7a2e61d492b85bf1"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "c456c308a2d698a8aa9d7318cfb4705a99a773ffcae775af60c659b605b39d87"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
@@ -677,11 +559,6 @@ hash = "4d4bc3f85ac72b03a999650eb8e0741bbcc3257691a7940df5bb3a5830e5498b"
 metafile = true
 
 [[files]]
-file = "mods/draconic-evolution.pw.toml"
-hash = "bd39c958001bcdf13acd853692e21d57c34b199ffb5343a14f38eb657a84d65b"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
 metafile = true
@@ -699,16 +576,6 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
-metafile = true
-
-[[files]]
-file = "mods/embers-delight.pw.toml"
-hash = "b9928d9bb16764fc6ae1f77ca7d4c85c6820b10b18223978615f2dad7da04f29"
-metafile = true
-
-[[files]]
-file = "mods/embers.pw.toml"
-hash = "5d252ea8cc4b4e18a5ab851045c09392e53f3ba41fc5b1e210cf69ee60e8a3e8"
 metafile = true
 
 [[files]]
@@ -747,11 +614,6 @@ hash = "8ebb8f39ada37d9640fad1c70488ea54432840a58f5a49fa93cb880580cfb40d"
 metafile = true
 
 [[files]]
-file = "mods/engineered-compatibility.pw.toml"
-hash = "d101ff458c12295e3d292a0efab484ed48ad6d2540c7232007091c6d8c174db4"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 metafile = true
@@ -779,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "c2dd4c95f3b6a0949cf7c2787377a93ff08af93f18bc31a1b3b625ebea5162d1"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "fd26706fd4da11e5421f19398d4a5e23aeed594b1de41da8e2db7a3c84506f1e"
 metafile = true
 
 [[files]]
@@ -844,16 +701,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
-metafile = true
-
-[[files]]
-file = "mods/immersive-fixes.pw.toml"
-hash = "a312f9e65f298992f179a1727e4b5ec36ac70c91c405262cafccd924e39ffafe"
-metafile = true
-
-[[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
 
 [[files]]
@@ -957,11 +804,6 @@ hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
 
 [[files]]
-file = "mods/mantle.pw.toml"
-hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
-metafile = true
-
-[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "a93f0e9edd075e9f7636bc4ef206318698fe4481377fdf8786789877070c4922"
 metafile = true
@@ -994,11 +836,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "e62ad317cabfbe4a6e62a77f391ae95c6e955df496cef5278fb4ed7760908ab3"
-metafile = true
-
-[[files]]
-file = "mods/more-immersive-wires.pw.toml"
-hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
 metafile = true
 
 [[files]]
@@ -1047,6 +884,11 @@ hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
+file = "mods/nuclearcraft-neoteric.pw.toml"
+hash = "3ab7f7033936b3c53b861be7a8df2dcdcd1828131598055b650946f6f135008f"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
 metafile = true
@@ -1084,11 +926,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
-metafile = true
-
-[[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "8cbe8e110ed972c22c00cabd1b1fcfda9d80d73d02973f61c1d73ba2a31c6f3c"
 metafile = true
 
 [[files]]
@@ -1144,11 +981,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
-metafile = true
-
-[[files]]
-file = "mods/rustic-delight.pw.toml"
-hash = "c7d72b03dbad26ff31f40aa4e655c8876e3b2d2e9676e7096b4c42d57bfbee08"
 metafile = true
 
 [[files]]

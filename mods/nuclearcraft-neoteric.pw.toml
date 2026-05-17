@@ -1,0 +1,13 @@
+name = "NuclearCraft Neoteric"
+filename = "NuclearCraft-1.20.1-1.2.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qvd8pl5G/versions/AujGcTDp/NuclearCraft-1.20.1-1.2.23.jar"
+hash-format = "sha512"
+hash = "d836aeea67067e2c4a86d0b9d12bfae09ca1a1eae1512258b63f24f697eea4514e859fbba3295dde3bb6fb1fc32ea8c4cb91931649f224ec17ec2096bdc3ba04"
+
+[update]
+[update.modrinth]
+mod-id = "Qvd8pl5G"
+version = "AujGcTDp"
