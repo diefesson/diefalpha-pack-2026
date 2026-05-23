@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4d84100d626cc5f4ac983aad09fb8cdb5df14d04c3befdf37e6202b0bbc1f5d1"
+hash = "d749cd4ef690170822fb32f7784c4061459185cb257602fc0ea6a6372951f0d0"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -400,6 +400,14 @@ hash = "e30b3326a4070a14b71cdfbd2e5334b1453c98058de8329b0cadd25ef52eee3c"
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "f614e251c8c583b9fe4141a5caa454fa6e3cbe57a2a3e526bf90045c04154fb6"
+
+[[files]]
+file = "kubejs/server_scripts/src/exposure/recipes.js"
+hash = "70a5e508da9262cc9d4c564c2017b7ee745328ba30c572e88c883ea0f8b9e697"
+
+[[files]]
+file = "kubejs/server_scripts/src/immersive_paintings/recipes.js"
+hash = "cb8d83ab3be7d4d00699b6c08bf456df58e86841440d497695278fd12d2f6320"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
