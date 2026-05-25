@@ -1,0 +1,13 @@
+name = "Computercraft Greentech"
+filename = "CC Greentech V2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3lx16XQT/versions/nliLWloO/CC%20Greentech%20V2.0.zip"
+hash-format = "sha512"
+hash = "bb802622c2b28c6e3d0d1bfec0ff9d2a954a79837bbac593117f6d7fb7138a4b8f9e85e05366e94e71fd10abcddf3fd23dbc1580bf81844b29c3fc4893751436"
+
+[update]
+[update.modrinth]
+mod-id = "3lx16XQT"
+version = "nliLWloO"

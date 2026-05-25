@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d749cd4ef690170822fb32f7784c4061459185cb257602fc0ea6a6372951f0d0"
+hash = "f0e68b00b061b6502d8554e18d1c8a49a1022a97114f56a06a24a0942360d8d6"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -163,6 +163,11 @@ hash = "4dcc8a29f5e08b863a7b36d957adc3e381bc2340240f20a7f9893a4b54beb341"
 [[files]]
 file = "config/patchouli-client.toml"
 hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
+
+[[files]]
+file = "config/paxi/resourcepacks/computercraft-greentech.pw.toml"
+hash = "c037b0bb42761d33e792f05fc7c3b42e33406a8039236491bd242ceda10fed7a"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
@@ -562,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/capability-proxy.pw.toml"
 hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "b404683b35d437b78af928df1ee02ffccb05c2f1f60c8f2701e7f69ae6b42d35"
 metafile = true
 
 [[files]]
