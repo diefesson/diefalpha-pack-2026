@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f0e68b00b061b6502d8554e18d1c8a49a1022a97114f56a06a24a0942360d8d6"
+hash = "4f0a8dcf39f4ae129ba32f187e866b6abcdbf0366b45d0597b0a79f668417c0f"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -401,6 +401,10 @@ hash = "ca16b601cd0b47f3c7f8516c0f97c695b9bb3d2cc4aea3a3e4feff59007dbbca"
 [[files]]
 file = "kubejs/server_scripts/src/compat/tools_tags.js"
 hash = "e30b3326a4070a14b71cdfbd2e5334b1453c98058de8329b0cadd25ef52eee3c"
+
+[[files]]
+file = "kubejs/server_scripts/src/computercraft/recipes.js"
+hash = "e1f43499b7fe78418f67702da17255e33e0520830b3e87bc49971792932d18ec"
 
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
