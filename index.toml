@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4f0a8dcf39f4ae129ba32f187e866b6abcdbf0366b45d0597b0a79f668417c0f"
+hash = "24fd40c76ec76fe863736945ae2fd5a5333177d800074248eeb1d55e117292b5"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -774,11 +774,6 @@ hash = "8ebb8f39ada37d9640fad1c70488ea54432840a58f5a49fa93cb880580cfb40d"
 metafile = true
 
 [[files]]
-file = "mods/engineered-compatibility.pw.toml"
-hash = "d101ff458c12295e3d292a0efab484ed48ad6d2540c7232007091c6d8c174db4"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 metafile = true
@@ -871,11 +866,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
-metafile = true
-
-[[files]]
-file = "mods/immersive-fixes.pw.toml"
-hash = "a312f9e65f298992f179a1727e4b5ec36ac70c91c405262cafccd924e39ffafe"
 metafile = true
 
 [[files]]
@@ -1021,11 +1011,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "e62ad317cabfbe4a6e62a77f391ae95c6e955df496cef5278fb4ed7760908ab3"
-metafile = true
-
-[[files]]
-file = "mods/more-immersive-wires.pw.toml"
-hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
 metafile = true
 
 [[files]]
