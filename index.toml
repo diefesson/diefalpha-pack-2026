@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2f088b71e66f0e3bcbeb42e80d10ca1e53cf89e71fce7f1d37cc2d4275488045"
+hash = "17ed8ed0edb629299cb6bc2b838bc79eb31f7f21f127f194a00c04c10b4036d0"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -958,6 +958,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "c7d72b03dbad26ff31f40aa4e655c8876e3b2d2e9676e7096b4c42d57bfbee08"
+metafile = true
+
+[[files]]
+file = "mods/saints-dragons.pw.toml"
+hash = "67c81ffeae39b14faed10152c9a7185f1835acbc1e92e0c5ba7aa30d34bfaeb4"
 metafile = true
 
 [[files]]
