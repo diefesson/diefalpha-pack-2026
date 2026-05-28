@@ -44,7 +44,7 @@ no_projectile_immunity = true
 	#Increase snowball and egg stack size from 16 to 64, and potion stack size from 1 to 16 (only for potions of the same type of course).
 	increase_stack_size = true
 	#Eating and drinking both are interrupted if the player is damaged.
-	eating_interruption = true
+	eating_interruption = false
 
 [cooldown]
 	#Disable attacking when attack cooldown is below a certain percentage.

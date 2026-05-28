@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "17ed8ed0edb629299cb6bc2b838bc79eb31f7f21f127f194a00c04c10b4036d0"
+hash = "efb792e15646eabc645e5fa1a35c10498fbfdd8d6450b52ae4a73a4488eb1216"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -50,7 +50,7 @@ hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "f2a14e0d3a425871bafa4648f0d25ab01682eea948246261865ffc390671facf"
+hash = "08f7189f235c3e5e7de4fda4162f42da6a187f5630941409787ce4444e2ada3f"
 
 [[files]]
 file = "config/distinguishedpotions-client.toml"
