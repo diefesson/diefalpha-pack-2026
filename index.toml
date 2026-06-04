@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1f51f6d725b1765b01e3fb42692b4b66743fca2fe715576cc934a43b949f1752"
+hash = "eb51ce062ec22e94ccefe0d7025adab9cfce0bce94a98b5491ef96215b12e768"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -143,6 +143,18 @@ hash = "c7f8dbc8d2a2e408dfc2fe21abd9888a7767a2fdc6128f7890ce02582768d427"
 [[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "3e5e4b016138414ec741e39e52233dc6be81f286e5e84fc2af055c45b2d8e82e"
+
+[[files]]
+file = "config/lightmanscurrency-client.txt"
+hash = "5edffdd02ce2f211aece0558ba1c03ca4b08a8d599352fb12a699d6e19bb5a9a"
+
+[[files]]
+file = "config/lightmanscurrency-common.txt"
+hash = "cd43fe6ef18239e9e05a1172728aa476181140492b28edb27c3ea4a6e1d157d7"
+
+[[files]]
+file = "config/lightmanscurrency-server.txt"
+hash = "ab4298787f3f9d7819d158b5bcab63d77efeaabdddc62709c0509e3463ad5494"
 
 [[files]]
 file = "config/lmft.json"
@@ -951,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "e7610e821b1eac62e68ffba06f4083f6aa6128f9bb11fac53b025ad824547826"
 metafile = true
 
 [[files]]
