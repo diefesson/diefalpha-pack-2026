@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "eb51ce062ec22e94ccefe0d7025adab9cfce0bce94a98b5491ef96215b12e768"
+hash = "38e4fa387b276cf5fbf7457f884f3855c4f3f56517e02b3a6bc46ad7f62b0a1f"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -146,15 +146,15 @@ hash = "3e5e4b016138414ec741e39e52233dc6be81f286e5e84fc2af055c45b2d8e82e"
 
 [[files]]
 file = "config/lightmanscurrency-client.txt"
-hash = "5edffdd02ce2f211aece0558ba1c03ca4b08a8d599352fb12a699d6e19bb5a9a"
+hash = "efcef0d485be32924e36f5fe65a47c3432db75062c978bf71e68c28b630ee2fe"
 
 [[files]]
 file = "config/lightmanscurrency-common.txt"
-hash = "cd43fe6ef18239e9e05a1172728aa476181140492b28edb27c3ea4a6e1d157d7"
+hash = "8b0ed414d731b02ac27e31cb36ff44af2330b785988e1265a5f8dd7b49ba57da"
 
 [[files]]
 file = "config/lightmanscurrency-server.txt"
-hash = "ab4298787f3f9d7819d158b5bcab63d77efeaabdddc62709c0509e3463ad5494"
+hash = "c9388e3d13a7c70ff2504d7f2f452bb367870b08db7a8e7ea51f48c20bf2d103"
 
 [[files]]
 file = "config/lmft.json"

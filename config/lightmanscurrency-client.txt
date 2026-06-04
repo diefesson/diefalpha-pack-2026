@@ -20,13 +20,13 @@
 	#Whether the Gacha Machine will render each Gacha Ball individually
 	#Disable if you're having FPS issues near the Gacha Machine, this will make the machine render a far more simplisitic representation of its contents.
 	#Default: true
-	gachaMachineFancyGraphics=true
+	gachaMachineFancyGraphics=false
 #Time Formatting Settings
 [time]
 	#How Notification Timestamps are displayed.
 	#Follows SimpleDateFormat formatting: https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
 	#Default: "MM/dd/yy hh:mmaa"
-	timeFormatting="MM/dd/yy hh:mmaa"
+	timeFormatting="yy-MM-dd hh:mm:ss"
 #Wallet Slot Settings
 [wallet_slot]
 	#The position that the wallet slot will be placed at in the players inventory.
@@ -42,7 +42,7 @@
 [wallet_hud]
 	#Whether an overlay should be drawn on your HUD displaying your wallets current money amount.
 	#Default: true
-	enabled=true
+	enabled=false
 	#The corner of the screen that the overlay should be drawn on.
 	#Options: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
 	#Default: BOTTOM_LEFT
@@ -85,7 +85,7 @@
 [chest_buttons]
 	#Whether the 'Move Coins into Wallet' button will appear in the top-right corner of the Chest Screen if there are coins in the chest that can be collected.
 	#Default: true
-	enabled=true
+	enabled=false
 	#Whether the 'Move Coins into Wallet' button should collect coins from a side-chain.
 	#By default these would be the coin pile and coin block variants of the coins.
 	#Default: false

@@ -45,22 +45,22 @@ debugLevel=0
 		[crafting.coin_mint.mint]
 			#Whether the default mint recipe to mint copper coins from copper ingots will be loaded.
 			#Default: true
-			copper=true
+			copper=false
 			#Whether the default mint recipe to mint iron coins from iron ingots will be loaded.
 			#Default: true
-			iron=true
+			iron=false
 			#Whether the default mint recipe to mint gold coins from gold ingots will be loaded.
 			#Default: true
-			gold=true
+			gold=false
 			#Whether the default mint recipe to mint emerald coins from emeralds will be loaded.
 			#Default: true
 			emerald=true
 			#Whether the default mint recipe to mint diamond coins from diamonds will be loaded.
 			#Default: true
-			diamond=true
+			diamond=false
 			#Whether the default mint recipe to mint netherite coins from netherite ingots will be loaded.
 			#Default: true
-			netherite=true
+			netherite=false
 		#Specific Melting Options
 		#Does nothing if 'canMelt' is already false/disabled.
 		[crafting.coin_mint.melt]
@@ -88,50 +88,50 @@ debugLevel=0
 		#Disabling will not remove any existing Money Chests from the world, nor prevent their use.
 		#Disabling does NOT disable the recipes of Money Chest Upgrades.
 		#Default: true
-		canCraftCoinChest=true
+		canCraftCoinChest=false
 		#Whether the Money Chest Exchange Upgrade can be crafted.
 		#Disabling will not remove any existing Money Chest Exchange Upgrades from the world, nor prevent their use.
 		#Default: true
-		canCraftExchangeUpgrade=true
+		canCraftExchangeUpgrade=false
 		#Whether the Money Chest Magnet Upgrades can be crafted.
 		#Disabling will not remove any existing Money Chest Magnet Upgrades from the world, nor prevent their use.
 		#Default: true
-		canCraftMagnetUpgrade=true
+		canCraftMagnetUpgrade=false
 		#Whether the Money Chest Bank Upgrade can be crafted.
 		#Disabling will not remove any existing Money Chest Bank Upgrades from the world, nor prevent their use.
 		#Default: true
-		canCraftBankUpgrade=true
+		canCraftBankUpgrade=false
 		#Whether the Money Chest Security Upgrades can be crafted.
 		#Disabling will not remove any existing Money Chest Security Upgrades from the world, nor prevent their use.
 		#Default: true
-		canCraftSecurityUpgrade=true
+		canCraftSecurityUpgrade=false
 #Event Settings
 [events]
 	#Whether the Chocolate Event Coins will be added to the coin data.
 	#Note: Disabling will not remove any Chocolate Coin items that already exist, this simply makes them no longer function as money
 	#Default: true
-	chocolate=true
+	chocolate=false
 	#Whether custom events defined in the 'SeasonalEvent.json' config can give players a one-time reward for logging in during the event.
 	#Default: true
-	startingRewards=true
+	startingRewards=false
 	#Whether custom events can replace a portion (or all) of the default loot with custom event loot.
 	#Default: true
-	lootReplacements=true
+	lootReplacements=false
 #Villager Related Settings
 #Note: Any changes to villagers requires a full reboot to be applied due to how Minecraft/Forge registers trades.
 [villagers]
 	#Whether Piglins will accept gold coins as a valid bartering item
 	#Default: true
-	piglinsBarterCoins=true
+	piglinsBarterCoins=false
 	#Whether the wandering trader will have additional trades that allow you to buy misc items with money.
 	#Default: true
-	addCustomWanderingTrades=true
+	addCustomWanderingTrades=false
 	#Whether the banker villager profession will have any registered trades. The banker sells Lightman's Currency items for coins.
 	#Default: true
-	addBanker=true
+	addBanker=false
 	#Whether the cashier villager profession will have any registered trades.. The cashier sells an amalgamation of vanilla traders products for coins.
 	#Default: true
-	addCashier=true
+	addCashier=false
 	#Villager Trade Modification
 	#Note: Changes made only apply to newly generated trades. Villagers with trades already defined will not be changed.
 	[villagers.modification]
@@ -268,14 +268,14 @@ debugLevel=0
 [structures]
 	#Whether new village structures will have a chance to spawn in vanilla villages
 	#Default: true
-	villageHouses=true
+	villageHouses=false
 	#Whether new structures will have a chance to spawn in ancient cities
 	#Default: true
-	ancientCity=true
+	ancientCity=false
 	#Whether new special structures designed for Integrated Dungeons and Structures compatibility can spawn
 	#Does nothing if IDAS is not installed
 	#Default: true
-	idasStructures=true
+	idasStructures=false
 #Mixin Options
 [mixins]
 	#Whether coins given to a player with the /give command should be intercepted by the players wallet if one is equipped
