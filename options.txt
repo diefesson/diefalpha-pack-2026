@@ -184,6 +184,9 @@ key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
 key_key.jei.transferRecipeBookmark:key.keyboard.unknown
 key_key.jump:key.keyboard.space
 key_key.left:key.keyboard.a
+key_key.lightmanscurrency.open_wallet:key.keyboard.unknown
+key_key.lightmanscurrency.portable_atm:key.keyboard.unknown
+key_key.lightmanscurrency.portable_terminal:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.observable.profile:key.keyboard.u
@@ -192,6 +195,7 @@ key_key.personality.crawl:key.keyboard.c
 key_key.personality.sit:key.keyboard.unknown
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
+key_key.quickskin.open_menu:key.keyboard.unknown
 key_key.right:key.keyboard.d
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2

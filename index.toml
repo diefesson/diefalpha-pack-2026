@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "38e4fa387b276cf5fbf7457f884f3855c4f3f56517e02b3a6bc46ad7f62b0a1f"
+hash = "76c9819381cfefd3d27fd18d4f41aba91e8644a965043f23c235bdd764404ebc"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -429,6 +429,10 @@ hash = "70a5e508da9262cc9d4c564c2017b7ee745328ba30c572e88c883ea0f8b9e697"
 [[files]]
 file = "kubejs/server_scripts/src/immersive_paintings/recipes.js"
 hash = "cb8d83ab3be7d4d00699b6c08bf456df58e86841440d497695278fd12d2f6320"
+
+[[files]]
+file = "kubejs/server_scripts/src/lightmanscurrency/hide_disabled.js"
+hash = "d5e35df86f3f64861b580cd319f82a3d365a7ca8503576ad9a80bdd1d24a98e0"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
@@ -1312,4 +1316,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "557cc483aaee64463837f8a95867bd9ee43f4d06acdb81bc3d9b4002a4eb128d"
+hash = "d180e28135a79f2b8f25bad57fdadee9f01fb56c35a30058154ba5a1efd96412"
