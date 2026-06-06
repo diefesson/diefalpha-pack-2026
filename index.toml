@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "76c9819381cfefd3d27fd18d4f41aba91e8644a965043f23c235bdd764404ebc"
+hash = "2017b6c48921b3c22f48b62edbe522ef186b89e9fef8817989b9658a613f1cbf"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -432,7 +432,11 @@ hash = "cb8d83ab3be7d4d00699b6c08bf456df58e86841440d497695278fd12d2f6320"
 
 [[files]]
 file = "kubejs/server_scripts/src/lightmanscurrency/hide_disabled.js"
-hash = "d5e35df86f3f64861b580cd319f82a3d365a7ca8503576ad9a80bdd1d24a98e0"
+hash = "e113a1548417a81f87842434cb337d313a95155a1f7a10a5e01626b0b21542bb"
+
+[[files]]
+file = "kubejs/server_scripts/src/lightmanscurrency/remove_recipes.js"
+hash = "506ada1f8728038407370defbd7d62b33510f4469e53f48d0d7e77cfa1ce6871"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"

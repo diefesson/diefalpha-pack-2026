@@ -29,6 +29,11 @@ let lcDisabledItems = [
     'lightmanscurrency:coin_chest_magnet_upgrade_4',
     'lightmanscurrency:coin_chest_bank_upgrade',
     'lightmanscurrency:coin_chest_security_upgrade',
+    // Manually disabled items
+    'lightmanscurrency:portable_atm',
+    'lightmanscurrency:portable_terminal',
+    'lightmanscurrency:portable_gem_terminal',
+    'lightmanscurrency:gem_terminal',
 ]
 
 ServerEvents.tags('item', event => {
