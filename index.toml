@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2017b6c48921b3c22f48b62edbe522ef186b89e9fef8817989b9658a613f1cbf"
+hash = "12cc038cf7a0a1899fa131daa4f52d3188967688f7ae78c23aa8479b41f5178f"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -1091,6 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "fb05d7ec98426510ee309380a6f804f5670fe45657cdfe6b2b83ee1fa375f7e7"
+metafile = true
+
+[[files]]
+file = "mods/packagedauto.pw.toml"
+hash = "75d723d4897ca532fe0b89a0283fcba4fae105ab244286f6a2ca6ce955e744b2"
 metafile = true
 
 [[files]]
