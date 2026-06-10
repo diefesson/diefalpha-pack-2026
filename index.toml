@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "bfda55a5aaa3bd3a3cd3e413101d68f247e3e8ad0d420c06483efb39beeccdba"
+hash = "54884efa4d662642a3f20d8be0484b9eeca067665f685b6709c1ca70f8461d89"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -791,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "52c8e16175353ec9f1a343799800195992667577df4c574258e8d0a68c366c40"
 metafile = true
 
 [[files]]
