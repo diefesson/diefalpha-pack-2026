@@ -29,7 +29,7 @@ entityShadows:true
 forceUnicodeFont:false
 fov:0.0
 fovEffectScale:1.0
-fullscreen:false
+fullscreen:true
 gamma:0.5
 glDebugVerbosity:1
 glintSpeed:0.5
@@ -77,8 +77,13 @@ key_gui.xaero_world_map_server_settings:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.keypad.add
 key_gui.xaero_zoom_out:key.keyboard.keypad.subtract
 key_key.advancements:key.keyboard.l
+key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
+key_key.ae2.ae2wtlib_restock:key.keyboard.unknown
+key_key.ae2.ae2wtlib_stow:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.portable_item_cell:key.keyboard.unknown
+key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
+key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.aetherworks.mode_change:key.keyboard.v
 key_key.attack:key.mouse.left
@@ -202,7 +207,7 @@ key_key.screenshot:key.keyboard.f2
 key_key.smoothCamera:key.keyboard.unknown
 key_key.sneak:key.keyboard.left.alt
 key_key.socialInteractions:key.keyboard.tab:CONTROL
-key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
@@ -210,7 +215,9 @@ key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedcore.sort:key.mouse.middle
+key_key.sophisticatedcore.sort:key.keyboard.unknown
+key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.unknown
+key_key.sophisticatedcore.transfer_to_storage:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.shift
 key_key.swapOffhand:key.keyboard.f

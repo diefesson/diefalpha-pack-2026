@@ -32,6 +32,8 @@ let sophisticatedBackpackUpgrades = [
     'sophisticatedbackpacks:tank_upgrade',
     'sophisticatedbackpacks:compacting_upgrade',
     'sophisticatedbackpacks:advanced_compacting_upgrade',
+    'sophisticatedbackpacks:mob_catcher_upgrade',
+    'sophisticatedbackpacks:advanced_mob_catcher_upgrade',
 ]
 
 ServerEvents.recipes(event => {

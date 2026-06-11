@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "54884efa4d662642a3f20d8be0484b9eeca067665f685b6709c1ca70f8461d89"
+hash = "39976676e2f18126a127015ea904e98dea0f2ea397e9b48080e0fa0d5112a850"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -340,11 +340,11 @@ hash = "5d38b9b12f786263f521e3adaa374a99a8d722b8a767f71bc50c88c81a57b5a0"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "c0ea38ba5e971873bfb35ce4fc7ee0cb2a47ddb232f9934338a54665db97579a"
+hash = "689937d00f97ae1279445b6f1c3cb91efed4fc71c1d22e1348b5bd168854681d"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
-hash = "1ed41ad8cd0781b32fead8bbbdf77d3050196b7d35c5a8155b31a22315053d06"
+hash = "055e70f2c7b2f9b86a6e6edf50202e05ad58629d279a77d5c140d7266b6b5f5e"
 
 [[files]]
 file = "emi.json"
@@ -464,7 +464,7 @@ hash = "006513c10d2fbf47588e27ae7ed8d3d767d125b21993b848743d3bdf8c86ed84"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
-hash = "d509d674ecdfce67e29b736bb53c09a55c6ef64ecf215cde3a99786afb1d4873"
+hash = "3a2e84aabae737657b01575fca91f79908f347f8533ff2e63495cb94a85f616c"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_content.js"
@@ -1215,22 +1215,22 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6f9b20d31b62d277b685774e9839c92f3acb3c04d62e2fef2c9855ab150d83e8"
+hash = "3fb66639c7f8c80ee83702d8b69be6542eb9e9e541bc8cef4b8835981c774e8f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b655b1ded78a6823a89f000702b15f2e245dee1236205d9658218305097829d6"
+hash = "9aa35ecca8d36dc6a831f4cf719dc6141fe2064c6cd8858820b1bda39eba6f4a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "cb623ad9a48075ae981fb32ef738ea4d7d34968df25e51dfb11ab77a2c197d19"
+hash = "66a1474afd4f57a24409a9b053101369d4b724b1e39a977ba1eb465c7839adb1"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b522091a69eb087c0b0c656ea6d2d1d6191d3e8c240526fc77858be0577bae36"
+hash = "0b55dc0c1117da82ad74d5c4b81a39627ddae5e0daf524d2e60e23b9d97efd21"
 metafile = true
 
 [[files]]
@@ -1325,4 +1325,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d180e28135a79f2b8f25bad57fdadee9f01fb56c35a30058154ba5a1efd96412"
+hash = "d4bbda7751c88363614642ace8192d94598aca70d81a3a9eeede2952089ce73e"

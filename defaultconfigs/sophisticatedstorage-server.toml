@@ -6,6 +6,11 @@
 	#Threshold of number of item entities dropped from chest / barrel above which break is canceled (unless shift key is pressed) and message is displayed explaining to player many drops and packing tape use
 	#Range: 0 ~ 1000
 	tooManyItemEntityDrops = 200
+	#Determines if limited barrel counts can be dyed to change their color
+	limitedBarrelCountDyeingEnabled = true
+	#Defines the maximum range of the controller at which it connects storage blocks to multiblock
+	#Range: 4 ~ 64
+	controllerRange = 15
 
 	#Wood Barrel Settings
 	[server.WoodBarrel]
@@ -290,7 +295,7 @@
 	[server.CopperChest]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 45
+		inventorySlotCount = 36
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -299,7 +304,7 @@
 	[server.IronChest]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 63
+		inventorySlotCount = 45
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -308,7 +313,7 @@
 	[server.GoldChest]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 81
+		inventorySlotCount = 54
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -317,7 +322,7 @@
 	[server.DiamondChest]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 99
+		inventorySlotCount = 63
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -326,7 +331,7 @@
 	[server.NetheriteChest]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 117
+		inventorySlotCount = 72
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -518,8 +523,8 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-		#Determines whether void upgrade allows voiding anything or it only has overflow option
-		voidAnythingEnabled = true
+		#Determines whether void upgrade allows voiding always or it only has overflow options
+		voidAlwaysEnabled = true
 
 	#Advanced Void Upgrade Settings
 	[server.advancedVoidUpgrade]
@@ -529,8 +534,8 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-		#Determines whether void upgrade allows voiding anything or it only has overflow option
-		voidAnythingEnabled = true
+		#Determines whether void upgrade allows voiding always or it only has overflow options
+		voidAlwaysEnabled = true
 
 	#Smelting Upgrade Settings
 	[server.smeltingUpgrade]
@@ -700,4 +705,16 @@
 		#Number of lots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
+
+	#Alchemy Upgrade Settings
+	[server.alchemyUpgrade]
+		#Number of Alchemy Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 4
+
+	#Advanced Alchemy Upgrade Settings
+	[server.advancedAlchemyUpgrade]
+		#Number of Advanced Alchemy Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 8
 
