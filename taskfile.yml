@@ -1,0 +1,30 @@
+version: "3"
+
+vars:
+  PACKWIZ_FOLDER: "packwiz"
+  PACKWIZ_FILE: "{{.PACKWIZ_FOLDER}}/pack.toml"
+  BCC_FILE: "{{.PACKWIZ_FOLDER}}/config/bcc-common.toml"
+  PACK_NAME:
+    sh: "jaq '.name' {{.PACKWIZ_FILE}}"
+  PACK_VERSION:
+    sh: "jaq '.version' {{.PACKWIZ_FILE}}"
+  BCC_VERSION:
+    sh: "jaq '.general.modpackVersion' {{.BCC_FILE}}"
+  BUILD_FOLDER: "build"
+  BUILD_FILE: "{{.BUILD_FOLDER}}/{{.PACK_NAME}}-{{.PACK_VERSION}}-{{.BCC_VERSION}}.mrpack"
+
+tasks:
+  clean:
+    desc: Clean the build folder
+    cmds:
+      - rm -rf {{.BUILD_FOLDER}}
+  refresh:
+    desc: Refresh the packwiz pack
+    cmds:
+      - packwiz refresh --pack-file {{.PACKWIZ_FILE}}
+  build:
+    desc: Build the mrpack
+    deps: [clean, refresh]
+    cmds:
+      - mkdir -p {{.BUILD_FOLDER}}
+      - packwiz mr export --pack-file {{.PACKWIZ_FILE}} -o {{.BUILD_FILE}}
