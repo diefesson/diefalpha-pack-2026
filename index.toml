@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "39976676e2f18126a127015ea904e98dea0f2ea397e9b48080e0fa0d5112a850"
+hash = "dd9f05ae57fbdf11109ca375e72b896146898d17cabdccc896b15c77cf0fbb0b"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -741,11 +741,6 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
-metafile = true
-
-[[files]]
-file = "mods/embers-delight.pw.toml"
-hash = "b9928d9bb16764fc6ae1f77ca7d4c85c6820b10b18223978615f2dad7da04f29"
 metafile = true
 
 [[files]]
