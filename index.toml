@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "dd9f05ae57fbdf11109ca375e72b896146898d17cabdccc896b15c77cf0fbb0b"
+hash = "a3b04ddec1d51639b9ed512e3a2144999ac3580983e52ab4e7a45b336ea70f19"
 
 [[files]]
 file = "config/blockrunner.json"
@@ -1210,22 +1210,27 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3fb66639c7f8c80ee83702d8b69be6542eb9e9e541bc8cef4b8835981c774e8f"
+hash = "6bbd8a47475b37a85c13b60e7025ffe225834d4f6e6669df7d4d8f46c738bee2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9aa35ecca8d36dc6a831f4cf719dc6141fe2064c6cd8858820b1bda39eba6f4a"
+hash = "f9ba88b04eee675156d3d4318bc04075754809999dbfc5ed3ffe32514db12822"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-inventory-interactions.pw.toml"
+hash = "ae838aa98a4fbac2816f401f4ae4df8904b78e62c5590e0edce923c53d608e55"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "66a1474afd4f57a24409a9b053101369d4b724b1e39a977ba1eb465c7839adb1"
+hash = "86e50e6221ee07f0de4952e890dc9751180decbf6aba2b4ccd300278190146ca"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0b55dc0c1117da82ad74d5c4b81a39627ddae5e0daf524d2e60e23b9d97efd21"
+hash = "8dd8c7d51ba9de9424c4626f028a67b49f1b966c144b6c083cf77583e8e5efa4"
 metafile = true
 
 [[files]]

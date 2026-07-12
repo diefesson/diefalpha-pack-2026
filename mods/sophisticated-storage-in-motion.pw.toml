@@ -1,13 +1,13 @@
 name = "Sophisticated Storage in Motion"
-filename = "sophisticatedstorageinmotion-1.20.1-0.10.33.288.jar"
+filename = "sophisticatedstorageinmotion-1.20.1-0.10.34.299.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6vtFbyaJ/versions/9qRI0gsv/sophisticatedstorageinmotion-1.20.1-0.10.33.288.jar"
+url = "https://cdn.modrinth.com/data/6vtFbyaJ/versions/adOei19y/sophisticatedstorageinmotion-1.20.1-0.10.34.299.jar"
 hash-format = "sha512"
-hash = "04b06dd2ef6183fd297baf0b838ddccbd2175b2d6f6fd7c939450b1a3398abecf8653591807f5a7dadc3dd8be036991cd5192c1fa633b8da3e4ab2fb296de3fc"
+hash = "b4627551896641780212a3051f5ad8fa466ff03398c62ded804a5cc4c6aea997c0c8dceb06dcf1e6cb1c845ba61ce9a1f7a29afd15a17b56a4f46d71bb732166"
 
 [update]
 [update.modrinth]
 mod-id = "6vtFbyaJ"
-version = "9qRI0gsv"
+version = "adOei19y"
